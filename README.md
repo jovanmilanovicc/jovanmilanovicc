@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Reactjs, Nextjs and Laravel**
 
-- 📫 How to reach me **jovanmilanovic000"gmail.com**
+- 📫 How to reach me **jovanmilanovic999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
