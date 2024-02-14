@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jovan Milanović</h1>
 <h3 align="center">A passionate frontend developer from Montenegro</h3>
 
-- 🔭 I’m currently working on [Tenant menagment app](https://github.com/Bild-Studio)
+- 🔭 I’m currently working on [Media Mind](3d-platforma.vercel.app)
 
 - 🌱 I’m currently learning **Nodejs**
 
